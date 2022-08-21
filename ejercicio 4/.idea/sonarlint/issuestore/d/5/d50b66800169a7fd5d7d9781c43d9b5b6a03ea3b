@@ -1,0 +1,16 @@
+
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ÔÛÀ¥
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(æï¸¼
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(‹âË»øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿß‘«ıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Æ°×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‡ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êÃÜÆ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(°Â‰Ğ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ôÆ° üÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(«™©
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(•ş?
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(°Ãì
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Ïç“´ÿÿÿÿÿ
